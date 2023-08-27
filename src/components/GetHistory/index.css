@@ -1,0 +1,19 @@
+.history-tab-elements {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.history-details-container {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
+.time {
+  margin-right: 30px;
+}
+.app-logo {
+  height: 20px;
+}
+.domain-url {
+  color: #475569;
+}
